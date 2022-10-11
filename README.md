@@ -2,7 +2,7 @@
 
 - Estudande do Senai📚
 - Fazendo Desenvolvimento de Sistema
-
+- Inglês Avançado
 ##
 
 <div align="center">
