@@ -1,4 +1,4 @@
-## Olá seja bem vindo ao meu GitHub
+## Olá meu nome Vinícius Monteiro e esse é o meu GitHub
 
 - Estudande do Senai📚
 - Fazendo Desenvolvimento de Sistema
