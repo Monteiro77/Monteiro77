@@ -5,7 +5,7 @@
 - English Level - Advanced
 
 
-##Skills
+<h2>Skills</h2>
 
 <div align="center">
   <div style="display: inline_block">
