@@ -7,13 +7,11 @@
 
 <h2>About Me</h2>
 <div>
-  <span>
     My name is Vinícius Monteiro, and I am an enthusiastic 18-year-old developer, bringing a passion for technology and a thirst for learning to the software development market. Currently studying Software Engineering, I complement my training with a technical diploma in Systems Development, which gives me a solid foundation in programming languages ​​and agile methodologies.
   
 I look forward to applying my knowledge to challenging projects, seeking innovative and efficient solutions to customer needs. I'm an advocate of continuous learning and am always looking for opportunities to expand my technical skills.
 
 I am available to collaborate on exciting projects and contribute meaningfully to development teams. Let's work together to create something extraordinary!
-  </span>
 </div>
 <div>
   <h2>Skills</h2>
