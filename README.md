@@ -4,7 +4,6 @@
 - SENAI - Systems development
 - English Level - Advanced
 
-##
 
 #Skills
 
