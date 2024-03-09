@@ -15,8 +15,8 @@ I am available to collaborate on exciting projects and contribute meaningfully t
     <br>
     <div align="center">
   <a href="https://github.com/Monteiro77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monteiro77&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monteiro77&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monteiro77&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monteiro77&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   <h2>Skills</h2>
 
