@@ -1,41 +1,77 @@
-# Hi There! 🖐
-
-- FIAP - Software Engineering 
-- SENAI - Systems development
-- English Level - Advanced
 
 
-# About Me
 <div align="center">
-    My name is Vinícius Monteiro, and I am an enthusiastic 19 years old developer, bringing a passion for technology and a thirst for learning to the software development market. Currently studying Software Engineering, I complement my training with a technical diploma in Systems Development, which gives me a solid foundation in programming languages ​​and agile methodologies.
-I look forward to applying my knowledge to challenging projects, seeking innovative and efficient solutions to customer needs. I'm an advocate of continuous learning and am always looking for opportunities to expand my technical skills.
-I am available to collaborate on exciting projects and contribute meaningfully to development teams. Let's work together to create something extraordinary!
+
+# 🎉 Eae! Seja muito bem-vindo(a)! 🚀
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=00F5FF\&center=true\&vCenter=true\&width=700\&lines=console.log\(%22Vin%C3%ADcius+Monteiro+na+%C3%A1rea!%22\);Sou+desenvolvedor+full+stack+em+constru%C3%A7%C3%A3o...;Viciado+em+c%C3%B3digo+e+caf%C3%A9!)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 </div>
-<div>
-    <br>
-    <div align="center">
+
+---
+
+## 🎓 Formação de Respeito
+
+* 👨‍💻 **FIAP** — Engenharia de Software
+* 🔧 **SENAI** — Técnico em Desenvolvimento de Sistemas
+* 💬 **Inglês** — Nível Avançado (Yes, I do speak English!)
+
+---
+
+## 😎 Sobre mim (modo hard ativado)
+
+<div align="center">
+
+Sou o Vinícius, tenho 19 anos e sou **apaixonado por tecnologia** desde que descobri que dava pra "mexer com computador e ainda ganhar pra isso" 💸. Estudo Engenharia de Software na FIAP, com bagagem técnica do SENAI.
+
+Adoro colocar a mão na massa, seja codando um backend parrudo ou fazendo uma UI daora. Gosto de resolver pepino, pensar fora da caixa e aprender coisa nova todo dia.
+
+Se tiver um projeto ousado, diferente, ou que envolva **mudar o mundo com código**, pode me chamar. Bora construir algo insano juntos?
+
+</div>
+
+---
+
+## 📈 Status no GitHub
+
+<div align="center">
   <a href="https://github.com/Monteiro77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monteiro77&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monteiro77&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monteiro77&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monteiro77&layout=compact&theme=radical" />
+</a>
 </div>
-  <h2>Skills</h2>
+
+---
+
+## 🧠 Superpoderes (Skills)
 
 <div align="center">
-  <div style="display: inline_block">
-  <img align="center" alt="Vinícius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vinícius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vinícius-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vinícius-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Vinícius-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Vinícius-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Vinícius-KOTLIN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Vinícius-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div><br>
+
+| Linguagens                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Ferramentas & Outros                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> |
+
 </div>
 
+---
 
+## 🧩 Fun facts
 
+* 🧃 Viciado em café gelado
+* 👾 Faço projetos por diversão (e por bug mesmo)
+* 🧠 Colecionador de abas abertas
 
+---
 
+## 🤝 Bora trocar ideia?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius%20Monteiro-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-Monteiro77-181717?style=for-the-badge\&logo=github)](https://github.com/Monteiro77)
+
+</div>
 
 
