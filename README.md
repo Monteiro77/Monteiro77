@@ -24,7 +24,7 @@
 
 <div align="center">
 
-Sou o Vinícius, tenho 19 anos e sou **apaixonado por tecnologia** desde que descobri que dava pra "mexer com computador e ainda ganhar pra isso" 💸. Estudo Engenharia de Software na FIAP, com bagagem técnica do SENAI.
+Sou o Vinícius, tenho 20 anos e sou **apaixonado por tecnologia** desde que descobri que dava pra "mexer com computador e ainda ganhar pra isso" 💸. Estudo Engenharia de Software na FIAP, com bagagem técnica do SENAI.
 
 Adoro colocar a mão na massa, seja codando um backend parrudo ou fazendo uma UI daora. Gosto de resolver pepino, pensar fora da caixa e aprender coisa nova todo dia.
 
