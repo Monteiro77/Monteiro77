@@ -33,23 +33,7 @@ Se tiver um projeto ousado, diferente, ou que envolva **mudar o mundo com códig
 </div>
 
 ---
-
-## 📈 Status no GitHub
-
-<div align="center">
-  <a href="https://github.com/Monteiro77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monteiro77&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monteiro77&layout=compact&theme=radical" />
-</a>
-</div>
-
----
-
-## 🧠 Superpoderes (Skills)
-
-<div align="center">
-
-| Linguagens                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                        
 ## 🧩 Fun facts
 
 * 🧃 Viciado em café gelado
